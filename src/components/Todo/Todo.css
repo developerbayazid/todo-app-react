@@ -1,0 +1,10 @@
+.todo-title {
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: blueviolet;
+  font-family: cursive;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
